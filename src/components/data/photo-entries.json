@@ -1,0 +1,40 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "Lily2.jpeg",
+      "caption"  : "A beautiful flower for honeymoons",
+      "name" : "This is a Lily"
+    },
+
+    {
+      "src"      : "plastic1.jpeg",
+      "caption"  : "Relatively cheap",
+      "name" : "This is a plastic flower"
+    },
+
+    {
+      "src"      : "plastic2.jpeg",
+      "caption"  : "Doesn't need to be watered",
+      "name" : "This is a plastic flower"
+    },
+
+    {
+      "src"      : "Rose1.jpeg",
+      "caption"  : "A romantic flower",
+      "name" : "This is a Rose flower"
+    },
+
+    {
+      "src"      : "Rose2.jpeg",
+      "caption"  : "It's Kiswahili name is Waridi",
+      "name" : "This is a Rose too"
+    },
+
+    {
+      "src"      : "Lily1.jpeg",
+      "caption"  : "I love you",
+      "name" : "This is a Lily"
+    }
+  ]
+}
